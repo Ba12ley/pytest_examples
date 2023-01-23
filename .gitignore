@@ -1,0 +1,4 @@
+/fastapi_project/mongo-volume/
+/venv/
+/.pytest_cache/
+/.idea/
